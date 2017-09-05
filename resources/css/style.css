@@ -4,14 +4,27 @@ body {
   background-color: black;
   font-family: Verdana;
   text-align: center;
-}
-
-h1 {
-  font-size: 50px;
   color: white;
 }
 
 a {
   color: aquamarine;
   font-size: 16px;
+}
+
+/* TYPOGRAPHY */
+
+h1 {
+  font-size: 50px;
+  color: white;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+h3 {
+  font-size: 21px;
+  color: gray;
 }
